@@ -11,6 +11,8 @@ Pendulum
     :alt: Pendulum Build status
     :target: https://github.com/sdispater/pendulum/actions
 
+Temporary `pendulum` fork to provide Python 3.13 wheels.
+
 Python datetimes made easy.
 
 Supports Python **3.9 and newer**.

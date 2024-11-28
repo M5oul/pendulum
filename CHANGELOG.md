@@ -1,5 +1,16 @@
 # Change Log
 
+## [3.1.0] - 2024-11-28
+
+Temporary fork to provide Python 3.13 wheels.
+Python 3.13 is not fully tested, no official support from this side.
+But at least the tests are passing.
+
+- Rename project to `pendulum-py3.13` to publish on PyPI
+- Add Python 3.13 builds
+- Switch Ruff to > Py3.9, apply changes
+- Drop Python 3.8 support
+
 ## [3.0.0] - 2023-12-16
 
 ### Changed
